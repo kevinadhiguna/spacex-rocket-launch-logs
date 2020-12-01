@@ -29,7 +29,7 @@ const Launch = (props) => {
 	});
 
 	console.log(data);
-	
+
 	if (loading) return <p>Loading...</p>;
 	if (error) return <p>Oops.. try again later..</p>;
 
@@ -39,7 +39,6 @@ const Launch = (props) => {
 		launch_success,
 		rocket: { rocket_id, rocket_name, rocket_type },
 	} = data.launch;
-
 
 	return (
 		<div>
