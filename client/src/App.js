@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import "./App.css";
-import logo from "./spacex.png";
+import logo from "./assets/images/spacex.png";
 import Launches from "./components/Launches";
 import Launch from "./components/Launch";
 
