@@ -1,6 +1,6 @@
 import React from "react";
 import { gql, useQuery } from "@apollo/client";
-import ClipLoader from "react-spinners/ClipLoader";
+import RingLoader from "react-spinners/RingLoader";
 
 import LaunchItem from "./LaunchItem";
 import MissionKey from "./MissionKey";
@@ -22,7 +22,7 @@ function LaunchesQuery() {
 	if (loading)
 		return (
 			<div className="loading">
-				<ClipLoader size={150} color={"#fff"} />
+				<RingLoader size={130} color={"#fff"} />
 				<h4>Please wait for a moment ...</h4>
 			</div>
 		);
