@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { gql, useQuery } from "@apollo/client";
 import { Link } from "react-router-dom";
 import classNames from "classnames";
