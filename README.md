@@ -22,3 +22,5 @@ These are how this web app looks in iPhone and iPad :<br />
 | iPhone | iPad |
 |--------|------|
 | <img src="https://raw.githubusercontent.com/kevinadhiguna/spacex-rocket-launch-logs/master/demo/mobilePhone.png" />    | <img src="https://raw.githubusercontent.com/kevinadhiguna/spacex-rocket-launch-logs/master/demo/iPad.png" />  |
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/spacex-rocket-launch-logs)](https://github.com/kevinadhiguna)
