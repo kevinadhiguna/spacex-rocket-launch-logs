@@ -23,4 +23,5 @@ These are how this web app looks in iPhone and iPad :<br />
 |--------|------|
 | <img src="https://raw.githubusercontent.com/kevinadhiguna/spacex-rocket-launch-logs/master/demo/mobilePhone.png" />    | <img src="https://raw.githubusercontent.com/kevinadhiguna/spacex-rocket-launch-logs/master/demo/iPad.png" />  |
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/spacex-rocket-launch-logs)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=spacex-rocket-launch-logs&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
